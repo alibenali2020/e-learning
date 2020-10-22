@@ -1,0 +1,44 @@
+.header {
+  /* The image used */
+  background-image: url("https://www.cadre-dirigeant-magazine.com/wp-content/uploads/2019/01/cr%C3%A9dit-photo-www.aeroschool.fr_.jpg");
+  padding-bottom: 200px;
+  /* Full height */
+  height: 400px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+nav {
+  position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+h1,
+h3 {
+  margin-left: 50%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+footer {
+  background-color: #b1c1bd;
+  /* Full height */
+  height: 300px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 50px;
+}
+.card :hover {
+  perspective: 1000px;
+}
+
+.btn {
+  float: right;
+  margin-top: 250px;
+}
