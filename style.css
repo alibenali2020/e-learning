@@ -52,7 +52,7 @@ footer {
   width: 500px;
 }
 .container-fluid {
-  padding: 0px;
+  padding: 45px;
   text-align: center;
 }
 .card-body {
@@ -104,4 +104,14 @@ nav {
   margin-right: center;
   margin-right: 43px;
   margin-left: 102px;
+}
+.table:hover {
+  background-color: red;
+  color: aqua;
+}
+
+#contact-img {
+  background-image: url("img/téléchargement.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }

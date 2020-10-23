@@ -16,7 +16,12 @@ nav {
   background-size: cover;
   width: 100%;
 }
-
+.signIn {
+  margin-left: 139px;
+}
+.signUp {
+  margin-right: px;
+}
 h1,
 h3 {
   margin-left: 50%;
